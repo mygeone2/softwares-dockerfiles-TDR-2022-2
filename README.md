@@ -1,6 +1,6 @@
-# List of Softwares
+# List of Softwares 
 
-A list of Dockerfiles for deploying client/server software for traffic analysis. Following protocols are included:
+A list of Dockerfiles used in a course for deploying client/server software for traffic analysis. Following protocols are included:
 - FTP
 - IRC
 - MDNS
